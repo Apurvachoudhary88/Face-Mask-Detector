@@ -1,2 +1,9 @@
-# Face-Mask-Detector
-Code to detect if a person is wearing a mask or not in images and live cameras 
+# Face Mask Detector
+Face Mask Detection system built with OpenCV, TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams. 
+
+⚠️ Tech/framework used
+OpenCV
+TensorFlow
+MobileNetV2
+
+data set used is taken from the source: Prajnasb
