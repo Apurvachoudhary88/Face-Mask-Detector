@@ -12,4 +12,5 @@
 
    Step 1: Training the model with the appropriate data with Face_mask_detector.ipynb, downloading the model weights.
 
-   Step 2: Run detect.ipynb, the webcam is used for output.
+   Step 2: Run detect.ipynb, the webcam is used for output. <br/>
+[![JAVA_BASICS](https://img.youtube.com/vi/NgB2_3vPK1Y)l(https://www.youtube.com/watch?v=NgB2_3vPK1Y)
